@@ -5,8 +5,8 @@ excerpt: "A research project to create an easy-to-use, scalable, web-based multi
 toc : true
 toc_label: "Table of Contents"
 header:
-  image: /assets/images/airsimcapture.PNG
-  teaser: /assets/images/airsimscreen.png
+  image: /assets/images/SWARMS_Main.PNG
+  teaser: /assets/images/SWARMS_App.png
 sidebar:
   - title: "Role"
     text: "Team Lead, Obstacle Avoidance / Control Systems Developer"
@@ -50,5 +50,5 @@ Currently me and my teammate are working on a more advanced obstacle algorithm. 
 <img src="/assets/images/newalgo.png" alt="">
 
 # Leadership
-I am currently the team lead researcher. Some of my responsibilities have been to recruit new members I have been cold emailing different departments at our school asking for students interested in our project with certain skills. So far we have been able to recruit 5 new members helping us maintain/update our website and develope new features for users. I am also tasked with running meetings and making sure each member is assigned a task with and assist them if they ever run into any issues.
+I am currently the team lead researcher. Some of my responsibilities have been to recruit new members I have been cold emailing different departments at our school asking for students interested in our project with certain skills. So far we have been able to recruit 5 new members helping us maintain/update our website and develop new features for users. I am also tasked with running meetings and making sure each member is assigned a task with and assist them if they ever run into any issues.
 

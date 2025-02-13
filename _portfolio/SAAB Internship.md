@@ -1,10 +1,10 @@
 ---
 title: "SAAB Internship"
 excerpt: "An overview of my time at SAAB as an intern."
-date: 2023-05-15
+date: 2024-09-15
 header:
   image: /assets/images/navyfleet.png
-  teaser: /assets/images/saablogo.png
+  teaser: /assets/images/Updated_SAAB_Logo.png
 toc : true
 toc_label: "Table of Contents"
 sidebar:
@@ -18,7 +18,27 @@ sidebar:
 
 As a Machine Learning Software Engineer Intern at SAAB I was tasked with helping the team with the development of three projects. TSUNOMI, ETA ETD IRAD, and ReflexAI. TSUNOMI was a collaboration with ONR to build a multimodal sensor fusion system for the US Navy. ETA/ETD IRAD was a project to create a machine learning model that would help improve the predection times that the FAA uses currently to predict the arrival and departure times of aircrafts. ReflexAI was a project to create a machine learning model that would help autonomly control a boat that has changing dynamics such as weight, hull integrety, and engine power.
 
-# TSUNOMI
+# TSUNOMI Summer 2024
+
+During my second internship at SAAB, I took on complex challenges in computer vision and synthetic data generation for autonomous systems. My objective was to develop a synthetic data generation pipeline for training and testing object detection models. I also worked on developing a computer vision algorithm for detecting and tracking objects in real-time. Building relastic models using Cesium and utalizing Unreal engine to have relastic graphics.
+
+## Computer Vision System Development
+
+I developed a robust camera vision system focused on object tracking and real-time location data processing. The system was designed to maintain consistent tracking accuracy across varying environmental conditions and object velocities. I implemented advanced computer vision algorithms and optimized the processing pipeline to ensure minimal latency in location data updates.
+
+## YOLO Model Training Enhancement
+
+I designed an automated image pipeline that significantly improved the YOLO (You Only Look Once) model training process. The pipeline automatically generated bounding boxes around objects of interest, streamlining the data preparation phase. This automation reduced manual labeling time and improved model training efficiency.
+
+## Unreal Engine Integration
+
+One of my key contributions was implementing a camera calibration pipeline within Unreal Engine. This calibration system enhanced the accuracy of synthetic data collection by ensuring proper alignment between virtual and real-world camera parameters. I created photo-realistic environments that closely mimicked real-world conditions, enabling more effective AI model training through synthetic data.
+
+## Cross-Functional Leadership
+
+Beyond technical development, I led cross-functional team meetings with university research collaborators. These meetings focused on sharing knowledge, aligning development goals, and ensuring our innovations could be effectively integrated into broader research initiatives.
+
+# TSUNOMI Summer 2023
 
 On the TSUNOMI I worked on three different main objectives. Building a simulated enviorment that would allow us to gather traning data for our tracking algorithm, building a Kafka broker to allow for seemless data communication between sensors and the tracking algorithm, and finally building an acoustic sensor measurment model.
 
@@ -49,3 +69,15 @@ To build a machine learning model I used the open source software Tensorflow. Te
 # ReflexAI
 
 I was pretty busy during my internship so I was not able to help as much on this project as I wanted. But I was still able to experince how my team does a demo presentation to DARPA to showcase how much work was completed and that we were on track to finish the product on the deadline. This was a great learning experince as I was able to see how a demo presentation is done and what is expected from the team.
+
+# Key Technologies Used
+
+Computer Vision: YOLO, OpenCV
+Game Engine: Unreal Engine
+Programming: Python, C++
+Development Tools: Git, Docker
+Team Collaboration: JIRA, Confluence
+
+# Impact 
+
+The systems I developed contributed to SAAB's autonomous systems capabilities, particularly in object detection and tracking. The synthetic data generation pipeline continues to be used for training and testing computer vision models, reducing the need for extensive real-world data collection.

@@ -5,13 +5,13 @@ title: "About Me"
 
 ## Information
 
-Hello my name is Avi Dube! I am currently a student at Purdue University majoring in Computer Engineering. My focus is mostly in Control Systems, Machine Learning, and Automation. I am working on breaking edge technology using simulations to test control systems and integrating neural networks and reinforcement learning into control systems.
+Hello! I'm Avi Dube, a Computer Engineering student at Purdue University passionate about pushing the boundaries of Control Systems, Machine Learning, and Automation. I thrive at the intersection of innovation and practical problem-solving, which led me to found SWARM - a cloud-based simulation platform now used by MIT Lincoln Laboratory and other research institutions.
 
-I am fluent in C++, Python, MatLab, C and know Java and HTML. I also learned and applied the theory of PID, Motion Profiling, Odometery, and RRT control algorithms in drones and robots. 
+As the Lead Researcher of Drone SWARMS at Purdue University under Professor Sundaram, I'm working on breaking edge technology using simulations to test control systems and integrating neural networks and reinforcement learning. My expertise spans across C++, Python, MatLab, and C, with practical experience implementing PID, Motion Profiling, Odometry, and RRT control algorithms in drones and robots.
 
-I am the Lead Researcher of Drone SWARMS at Purdue University under Professor Sundaram developing an easy-to-use, scalable, web-based multi-agent drone simulation platform. 
+From developing AI vision systems at SAAB to leading cross-functional research teams, I'm driven by making complex autonomous systems more accessible and reliable. When I'm not coding or tinkering with robots, you'll find me playing basketball, modifying cars, or enjoying time with friends.
 
-My hobbies include playing basketball, modifying cars, and just having a good time with friends. 
+Let's connect and build something amazing together! 
 
 ## Contact me
 
