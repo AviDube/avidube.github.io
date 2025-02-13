@@ -6,7 +6,7 @@ toc : true
 toc_label: "Table of Contents"
 header:
   image: /assets/images/SWARMS_Main.PNG
-  teaser: /assets/images/SWARMS_App.png
+  teaser: /assets/images/SWARMS_App.PNG
 sidebar:
   - title: "Role"
     text: "Team Lead, Obstacle Avoidance / Control Systems Developer"
